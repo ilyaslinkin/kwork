@@ -1,0 +1,25 @@
+;mirror
+originurl                                   = http://kwork
+
+;url
+baseurl                                     = http://kwork
+pushserver                                  = kwork
+purl                                        = http://kwork/pics
+purl_mirror 				                = http://kwork/pics
+purl_mirror 				                = https://kwork.ru/pics
+imageurl                                    = http://kwork/images
+membersprofilepicurl                        = http://kwork/files/avatar
+adminurl                                    = http://kwork/administrator
+uploadedurl                                 = http://kwork/files/uploaded
+portfoliourl                                = http://kwork/files/portfolio
+coverurl                                    = http://kwork/files/cover
+widgeturl                                   = http://kwork/js/kwork_widget.js
+files_miniature_url							= http://kwork/files/miniature
+
+;dir
+basedir                                     = C:\OpenServer\domains\kwork\public_html
+imagedir                                    = C:\OpenServer\domains\kwork\public_html/images
+pdir                                        = C:\OpenServer\domains\kwork\public_html/pics
+membersprofilepicdir                        = C:\OpenServer\domains\kwork\public_html/files/avatar
+logDir                                      = C:\OpenServer\domains\kwork\logs
+configdir                                   = C:\OpenServer\domains\kwork\config
